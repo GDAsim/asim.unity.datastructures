@@ -1,5 +1,5 @@
 {
-  "name": "asim.unity.datastructures",
+  "name": "@asim.unity/asim.unity.datastructures",
   "version": "0.1.0",
   "displayName": "Asim Unity Datastructures",
   "description": "Asim Unity Datastructures",
@@ -22,5 +22,7 @@
   },
   "homepage": "https://github.com/GDAsim/asim.unity.datastructures#readme",
   "dependencies": {
+  },"publishConfig": {
+    "access": "public"
   }
 }
